@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "LandArt, Inc. Landscapes & Exterior Services",
+    "phone": "+16154153975",
+    "category": "hardscaping contractor",
+    "city": "Nashville",
+    "state": "TN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Nashville's Hardscaping Authority",
+      "heroSubline": "Transforming outdoor spaces with durable craftsmanship and innovative design. Serving Nashville, Franklin, and surrounding communities.",
+      "aboutTitle": "Crafting Nashville's Outdoor Legacy",
+      "aboutText": [
+        "LandArt, Inc. started with a simple goal: to build outdoor spaces that last. Founded by a Nashville native, we understood the unique challenges of our local climate and soil conditions. We've spent over a decade perfecting our craft, building a reputation for quality and reliability across Middle Tennessee.",
+        "Our approach is rooted in collaboration. We listen to your vision, assess your property's specific needs, and develop a custom plan that fits your budget and lifestyle. We believe in open communication, transparent pricing, and meticulous attention to detail.",
+        "We're not just building patios and walkways; we're building community. We source materials locally whenever possible, support local charities, and strive to create outdoor spaces where families and friends can connect and thrive."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Nashville's climate, soil, and architectural styles better than anyone."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "We use only the highest-quality materials built to withstand Tennessee's weather extremes."
+        },
+        {
+          "title": "Custom Designs",
+          "description": "We create unique outdoor spaces tailored to your specific needs and preferences."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work with a comprehensive satisfaction guarantee."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Outdoor Space?",
+      "ctaSubline": "Contact LandArt, Inc. today for a free consultation and discover the possibilities."
+    },
+    "services": [
+      {
+        "slug": "paver-patios-walkways",
+        "name": "Paver Patios & Walkways",
+        "shortDescription": "Elevate your outdoor living with expertly installed paver patios and walkways.",
+        "description": "LandArt, Inc. specializes in designing and installing stunning paver patios and walkways that enhance your property's beauty and functionality. We work with a wide variety of paver styles, colors, and patterns to create custom designs that complement your home's architecture and your personal taste. From classic brick to modern concrete pavers, we have the perfect solution for your outdoor space.\n\nOur experienced team handles every aspect of the project, from site preparation and excavation to paver installation and sealing. We ensure proper drainage and base compaction to prevent shifting and settling, ensuring your paver patio or walkway lasts for years to come. We also offer paver repair and restoration services to keep your existing pavers looking their best.\n\nWhether you're looking to create a cozy outdoor dining area, a welcoming front walkway, or a sprawling entertainment space, LandArt, Inc. can bring your vision to life. We'll work closely with you to design a paver patio or walkway that meets your needs and exceeds your expectations.",
+        "process": [
+          "Step 1: Site Assessment & Design Consultation",
+          "Step 2: Material Selection & Budgeting",
+          "Step 3: Excavation & Base Preparation",
+          "Step 4: Paver Installation & Compaction"
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Increased Property Value",
+          "Durable & Long-Lasting",
+          "Customizable Designs"
+        ],
+        "faq": [
+          {
+            "question": "What types of pavers do you offer?",
+            "answer": "We offer a wide variety of pavers, including brick, concrete, natural stone, and permeable pavers. We can help you choose the perfect paver for your project based on your budget, style preferences, and functional needs."
+          },
+          {
+            "question": "How long does it take to install a paver patio?",
+            "answer": "The installation time depends on the size and complexity of the project. A typical paver patio can be installed in 3-5 days. We'll provide you with a detailed timeline during the design consultation."
+          },
+          {
+            "question": "Do you offer paver repair services?",
+            "answer": "Yes, we offer paver repair and restoration services. We can repair cracked, chipped, or sunken pavers, as well as re-level and re-sand your paver patio or walkway."
+          }
+        ]
+      },
+      {
+        "slug": "retaining-walls",
+        "name": "Retaining Walls",
+        "shortDescription": "Build strong and beautiful retaining walls to enhance your landscape and prevent erosion.",
+        "description": "LandArt, Inc. specializes in designing and constructing durable and aesthetically pleasing retaining walls that solve erosion problems, create level planting areas, and add visual interest to your landscape. We understand the importance of proper engineering and construction techniques to ensure the stability and longevity of your retaining wall, especially given Nashville's hilly terrain and clay-rich soil.\n\nWe offer a variety of retaining wall materials, including concrete blocks, natural stone, and treated timber. Our experienced team will assess your property's specific needs and recommend the best material and design for your project. We handle all aspects of the retaining wall construction, from excavation and drainage to wall assembly and backfilling.\n\nWhether you need a small retaining wall to support a flower bed or a large retaining wall to stabilize a hillside, LandArt, Inc. has the expertise and resources to get the job done right. We'll work closely with you to design a retaining wall that meets your functional needs and enhances the beauty of your outdoor space.",
+        "process": [
+          "Step 1: Site Evaluation & Engineering Design",
+          "Step 2: Material Selection & Permitting (if required)",
+          "Step 3: Excavation & Drainage Installation",
+          "Step 4: Wall Construction & Backfilling"
+        ],
+        "benefits": [
+          "Erosion Control & Soil Stabilization",
+          "Increased Usable Space",
+          "Enhanced Landscape Aesthetics",
+          "Improved Property Value"
+        ],
+        "faq": [
+          {
+            "question": "What materials do you use for retaining walls?",
+            "answer": "We offer a variety of retaining wall materials, including concrete blocks, natural stone, and treated timber. The best material for your project will depend on your budget, aesthetic preferences, and the specific requirements of your site."
+          },
+          {
+            "question": "Do I need a permit for a retaining wall?",
+            "answer": "Permit requirements vary depending on the height and location of the retaining wall. We can help you determine whether a permit is required and assist you with the application process."
+          },
+          {
+            "question": "How long will my retaining wall last?",
+            "answer": "With proper design and construction, a retaining wall can last for many years. We use high-quality materials and construction techniques to ensure the longevity of our retaining walls."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-fire-pits-fireplaces",
+        "name": "Outdoor Fire Pits & Fireplaces",
+        "shortDescription": "Create a cozy outdoor gathering space with a custom-built fire pit or fireplace.",
+        "description": "LandArt, Inc. designs and builds custom outdoor fire pits and fireplaces that create a warm and inviting atmosphere for your outdoor living space. Imagine relaxing by a crackling fire on a cool Nashville evening, surrounded by friends and family. We can make that dream a reality with a custom-built fire pit or fireplace that complements your home's style and your personal taste.\n\nWe offer a variety of fire pit and fireplace options, including wood-burning, gas-burning, and propane-burning models. We can build your fire pit or fireplace using a variety of materials, including brick, stone, and concrete. Our experienced team will handle all aspects of the project, from design and construction to gas line installation and safety inspections.\n\nWhether you're looking for a simple fire pit for roasting marshmallows or a grand outdoor fireplace for entertaining guests, LandArt, Inc. can create the perfect outdoor gathering space for you.",
+        "process": [
+          "Step 1: Design Consultation & Material Selection",
+          "Step 2: Site Preparation & Excavation",
+          "Step 3: Fire Pit/Fireplace Construction",
+          "Step 4: Gas Line Installation (if applicable) & Safety Inspection"
+        ],
+        "benefits": [
+          "Extended Outdoor Season",
+          "Enhanced Ambiance & Atmosphere",
+          "Increased Property Value",
+          "Perfect for Entertaining"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of a gas-burning fire pit?",
+            "answer": "Gas-burning fire pits are clean, convenient, and easy to use. They don't produce smoke or ash, and you can easily adjust the flame height with the turn of a knob."
+          },
+          {
+            "question": "Do I need a permit for an outdoor fireplace?",
+            "answer": "Permit requirements vary depending on the size and location of the fireplace. We can help you determine whether a permit is required and assist you with the application process."
+          },
+          {
+            "question": "What safety precautions should I take with an outdoor fire pit?",
+            "answer": "Always keep a fire extinguisher or garden hose nearby, never leave a fire unattended, and keep children and pets a safe distance from the flames."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-kitchens",
+        "name": "Outdoor Kitchens",
+        "shortDescription": "Design the ultimate outdoor cooking and entertaining space with a custom outdoor kitchen.",
+        "description": "LandArt, Inc. specializes in designing and building custom outdoor kitchens that transform your backyard into a culinary oasis. Imagine grilling up your favorite meals while enjoying the beautiful Nashville weather. We can create the perfect outdoor kitchen for your lifestyle, with features such as built-in grills, smokers, refrigerators, sinks, and countertops.\n\nWe work with a variety of materials, including stainless steel, granite, and concrete, to create durable and stylish outdoor kitchens that withstand the elements. Our experienced team will handle all aspects of the project, from design and construction to plumbing and electrical work. We'll work closely with you to create an outdoor kitchen that meets your specific needs and exceeds your expectations.\n\nWhether you're a serious grill master or simply enjoy cooking outdoors, LandArt, Inc. can create the ultimate outdoor kitchen for you.",
+        "process": [
+          "Step 1: Design Consultation & Appliance Selection",
+          "Step 2: Site Preparation & Utility Connections",
+          "Step 3: Kitchen Construction & Installation",
+          "Step 4: Final Inspection & Cleanup"
+        ],
+        "benefits": [
+          "Expanded Living Space",
+          "Increased Home Value",
+          "Enhanced Outdoor Entertaining",
+          "Convenient Outdoor Cooking"
+        ],
+        "faq": [
+          {
+            "question": "What appliances should I include in my outdoor kitchen?",
+            "answer": "The appliances you include in your outdoor kitchen will depend on your cooking style and entertaining needs. Popular options include grills, smokers, refrigerators, sinks, and side burners."
+          },
+          {
+            "question": "Do I need a permit for an outdoor kitchen?",
+            "answer": "Permit requirements vary depending on the scope of the project. We can help you determine whether a permit is required and assist you with the application process."
+          },
+          {
+            "question": "What materials are best for outdoor kitchen countertops?",
+            "answer": "Durable and weather-resistant materials such as granite, concrete, and stainless steel are ideal for outdoor kitchen countertops."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-installation-repair",
+        "name": "Driveway Installation & Repair",
+        "shortDescription": "Durable and stylish driveways built to withstand Nashville's climate and heavy use.",
+        "description": "LandArt, Inc. provides expert driveway installation and repair services, ensuring a smooth and durable surface that enhances your home's curb appeal. We understand the wear and tear that Nashville's weather and heavy traffic can inflict on driveways, from summer heat expansion to winter freeze-thaw cycles. We construct driveways designed to last, using high-quality materials and proven techniques.\n\nWe offer a variety of driveway options, including concrete, asphalt, and paver driveways. Each material offers unique benefits in terms of aesthetics, durability, and cost. Whether you need a brand-new driveway installed or your existing driveway repaired, our experienced team will provide you with a solution that meets your needs and budget.\n\nFrom patching cracks and sealing asphalt to completely replacing damaged driveways, LandArt, Inc. is committed to delivering exceptional workmanship and lasting results. We prioritize proper drainage and base preparation to prevent future issues and ensure the longevity of your driveway.",
+        "process": [
+          "Step 1: Site Assessment & Material Selection",
+          "Step 2: Excavation & Base Preparation",
+          "Step 3: Driveway Installation (Concrete, Asphalt, or Pavers)",
+          "Step 4: Compaction & Finishing"
+        ],
+        "benefits": [
+          "Improved Curb Appeal",
+          "Increased Property Value",
+          "Safe & Durable Surface",
+          "Proper Drainage"
+        ],
+        "faq": [
+          {
+            "question": "What's the difference between concrete and asphalt driveways?",
+            "answer": "Concrete driveways are typically more durable and long-lasting, but they can be more expensive to install. Asphalt driveways are more affordable but may require more frequent maintenance."
+          },
+          {
+            "question": "How often should I seal my asphalt driveway?",
+            "answer": "Asphalt driveways should be sealed every 2-3 years to protect them from the elements and prevent cracking."
+          },
+          {
+            "question": "Can you repair cracks in my concrete driveway?",
+            "answer": "Yes, we can repair cracks in concrete driveways using a variety of methods, including patching and crack filling."
+          }
+        ]
+      },
+      {
+        "slug": "drainage-solutions",
+        "name": "Drainage Solutions",
+        "shortDescription": "Protect your property from water damage with effective drainage systems.",
+        "description": "LandArt, Inc. specializes in designing and installing effective drainage solutions to protect your property from water damage. Nashville's heavy rainfall and clay-rich soil can create significant drainage challenges, leading to flooded basements, erosion, and foundation problems. We understand these challenges and offer a range of drainage solutions to address your specific needs.\n\nOur services include French drains, surface drains, downspout extensions, and grading adjustments. We'll assess your property's drainage issues and recommend the best solution for your situation. Our experienced team will handle all aspects of the project, from excavation and pipe installation to grading and landscaping restoration.\n\nDon't let water damage compromise your property's value and safety. Contact LandArt, Inc. today for a free consultation and let us help you protect your investment with a custom-designed drainage system.",
+        "process": [
+          "Step 1: Site Assessment & Problem Identification",
+          "Step 2: Drainage System Design & Planning",
+          "Step 3: Excavation & Pipe Installation",
+          "Step 4: Grading & Landscaping Restoration"
+        ],
+        "benefits": [
+          "Prevent Water Damage",
+          "Protect Foundation",
+          "Control Erosion",
+          "Improve Property Value"
+        ],
+        "faq": [
+          {
+            "question": "What is a French drain?",
+            "answer": "A French drain is a trench filled with gravel and a perforated pipe that redirects surface and groundwater away from your home's foundation."
+          },
+          {
+            "question": "How do I know if I need a drainage system?",
+            "answer": "Signs of a drainage problem include standing water in your yard, flooded basements, erosion, and foundation cracks."
+          },
+          {
+            "question": "How much does it cost to install a drainage system?",
+            "answer": "The cost of a drainage system depends on the complexity of the project and the type of system installed. We'll provide you with a detailed estimate after assessing your property."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Franklin",
+        "slug": "franklin-tn",
+        "state": "TN",
+        "content": "LandArt, Inc. Landscapes & Exterior Services is proud to offer hardscaping services to the residents of Franklin, Tennessee. Known for its charming historic downtown area and beautiful antebellum homes, Franklin presents unique opportunities for enhancing outdoor living spaces. We understand the importance of preserving the historical aesthetic while creating functional and elegant hardscapes. Our team works closely with homeowners to design and install patios, walkways, retaining walls, and other features that complement the character of their properties. \n\nGiven Franklin's hot and humid summers, LandArt, Inc. specializes in creating outdoor spaces that are both beautiful and durable. We use high-quality materials that can withstand the Tennessee climate, ensuring that your hardscaping investment will last for years to come. From permeable pavers that help manage stormwater runoff to shade structures that provide relief from the sun, we have the expertise to transform your outdoor area into a comfortable and inviting retreat.",
+        "localContext": "Franklin is known for its historic downtown, antebellum architecture, and hot, humid summers, making durable and historically appropriate hardscaping crucial.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Thompson's Station",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Murfreesboro",
+        "slug": "murfreesboro-tn",
+        "state": "TN",
+        "content": "LandArt, Inc. Landscapes & Exterior Services provides comprehensive hardscaping services to homeowners in Murfreesboro, Tennessee. As one of the fastest-growing cities in Tennessee, Murfreesboro is characterized by its numerous family-friendly developments and a strong sense of community. We specialize in creating functional and beautiful outdoor spaces that enhance the value and enjoyment of your home.\n\nLandArt, Inc. understands the needs of Murfreesboro families. We offer a wide range of hardscaping options, from patios and walkways to fire pits and outdoor kitchens, designed to create inviting spaces for relaxation and entertainment. With the hot and humid summers, we also focus on incorporating shade structures and water features to enhance outdoor comfort. We use high-quality materials and expert craftsmanship to ensure that your hardscaping project is built to last.",
+        "localContext": "Murfreesboro is a rapidly growing city with many family-friendly developments, necessitating practical and aesthetically pleasing hardscaping solutions.",
+        "nearbyAreas": [
+          "Smyrna",
+          "La Vergne",
+          "Christiana"
+        ]
+      },
+      {
+        "city": "Brentwood",
+        "slug": "brentwood-tn",
+        "state": "TN",
+        "content": "LandArt, Inc. Landscapes & Exterior Services is the premier hardscaping provider for Brentwood, Tennessee. Known for its luxury estates and wooded lots, Brentwood offers unique opportunities to create stunning outdoor environments. We specialize in designing and installing high-end hardscaping features that complement the elegance and sophistication of Brentwood homes.\n\nFrom custom patios and walkways to elaborate retaining walls and outdoor living spaces, LandArt, Inc. delivers exceptional craftsmanship and attention to detail. We work closely with homeowners to understand their vision and create a hardscaping design that reflects their personal style. Given Brentwood's hot and humid summers, we focus on using durable materials and incorporating shade structures to create comfortable and inviting outdoor spaces. We understand that Brentwood homeowners expect the best, and we are committed to exceeding their expectations.",
+        "localContext": "Brentwood's characteristic luxury estates on wooded lots require high-end hardscaping solutions that complement the area's natural beauty and withstand the hot, humid climate.",
+        "nearbyAreas": [
+          "Franklin",
+          "Nashville",
+          "Nolensville"
+        ]
+      },
+      {
+        "city": "Hendersonville",
+        "slug": "hendersonville-tn",
+        "state": "TN",
+        "content": "LandArt, Inc. Landscapes & Exterior Services offers expert hardscaping services to the residents of Hendersonville, Tennessee. Situated on the shores of Old Hickory Lake, Hendersonville is known for its beautiful lakefront homes and vibrant community. We specialize in creating outdoor spaces that take advantage of the stunning lake views and enhance the waterfront lifestyle.\n\nLandArt, Inc. understands the unique challenges and opportunities of hardscaping in Hendersonville. We can help you design and install patios, walkways, retaining walls, and other features that are both beautiful and functional. We also offer specialized solutions for waterfront properties, such as erosion control and shoreline stabilization. With Hendersonville's hot and humid summers, we focus on using durable materials that can withstand the elements and creating shaded areas for comfortable outdoor living.",
+        "localContext": "Hendersonville's location on Old Hickory Lake and hot, humid climate necessitates hardscaping solutions that are both aesthetically pleasing and resistant to water damage and erosion.",
+        "nearbyAreas": [
+          "Gallatin",
+          "Goodlettsville",
+          "Madison"
+        ]
+      },
+      {
+        "city": "Nashville",
+        "slug": "nashville-tn",
+        "state": "TN",
+        "content": "LandArt, Inc. Landscapes & Exterior Services is proud to serve the vibrant city of Nashville, Tennessee, with top-quality hardscaping services. As the heart of Tennessee, Nashville's diverse neighborhoods and bustling city life offer endless opportunities to create unique and inviting outdoor spaces. From the historic charm of East Nashville to the modern designs of the Gulch, we provide tailored hardscaping solutions to enhance every property.\n\nWe specialize in designing and installing patios, walkways, retaining walls, and outdoor kitchens that reflect Nashville's dynamic spirit. Understanding the varied architectural styles and the city's humid climate, we use durable, weather-resistant materials to ensure long-lasting beauty and functionality. Whether you're looking to create a cozy backyard retreat or an impressive outdoor entertainment area, LandArt, Inc. is here to bring your vision to life.",
+        "localContext": "Nashville's diverse neighborhoods and humid climate require versatile and durable hardscaping solutions that enhance the city's unique architectural styles.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Hendersonville",
+          "Franklin"
+        ]
+      },
+      {
+        "city": "Spring Hill",
+        "slug": "spring-hill-tn",
+        "state": "TN",
+        "content": "LandArt, Inc. Landscapes & Exterior Services is dedicated to providing exceptional hardscaping services to the growing community of Spring Hill, Tennessee. Known for its family-friendly atmosphere and expanding residential areas, Spring Hill offers numerous opportunities to create beautiful and functional outdoor living spaces. We specialize in designing and installing hardscapes that enhance the value and enjoyment of your home.\n\nOur services include patios, walkways, driveways, and retaining walls, all tailored to meet the specific needs and preferences of Spring Hill homeowners. We focus on using quality materials that withstand the Tennessee climate and create inviting spaces for relaxation and entertainment. Whether you're looking to add a cozy fire pit or a spacious outdoor kitchen, LandArt, Inc. is committed to delivering outstanding results that exceed your expectations.",
+        "localContext": "Spring Hill's family-friendly environment and growing residential areas require practical and aesthetically pleasing hardscaping solutions that enhance outdoor living.",
+        "nearbyAreas": [
+          "Columbia",
+          "Thompson's Station",
+          "Franklin"
+        ]
+      },
+      {
+        "city": "Smyrna",
+        "slug": "smyrna-tn",
+        "state": "TN",
+        "content": "LandArt, Inc. Landscapes & Exterior Services is pleased to offer comprehensive hardscaping services to the residents of Smyrna, Tennessee. As a thriving community with a mix of residential and industrial areas, Smyrna presents unique opportunities for creating functional and attractive outdoor spaces. We specialize in designing and installing hardscapes that enhance the value and appeal of your property.\n\nWe provide a wide range of services, including patios, walkways, retaining walls, and outdoor living areas, all tailored to meet the specific needs of Smyrna homeowners. Understanding the local climate, we use durable, weather-resistant materials to ensure long-lasting beauty and functionality. Whether you're looking to create a welcoming entrance or a relaxing backyard oasis, LandArt, Inc. is dedicated to delivering top-quality results.",
+        "localContext": "Smyrna's mix of residential and industrial areas requires versatile hardscaping solutions that enhance property value and create attractive outdoor spaces.",
+        "nearbyAreas": [
+          "Murfreesboro",
+          "La Vergne",
+          "Antioch"
+        ]
+      },
+      {
+        "city": "Thompson's Station",
+        "slug": "thompson-s-station-tn",
+        "state": "TN",
+        "content": "LandArt, Inc. Landscapes & Exterior Services is proud to serve Thompson's Station, Tennessee, with exceptional hardscaping services. Known for its scenic landscapes and growing residential community, Thompson's Station offers a perfect setting for creating stunning outdoor living spaces. We specialize in designing and installing hardscapes that enhance the natural beauty and functionality of your property.\n\nOur services include patios, walkways, retaining walls, and outdoor kitchens, all customized to meet the unique needs and preferences of Thompson's Station homeowners. We focus on using high-quality materials that complement the area's natural surroundings and withstand the local climate. Whether you're looking to create a serene backyard retreat or an inviting outdoor entertainment area, LandArt, Inc. is committed to delivering outstanding results that exceed your expectations.",
+        "localContext": "Thompson's Station's scenic landscapes and growing residential community require hardscaping solutions that enhance natural beauty and create functional outdoor spaces.",
+        "nearbyAreas": [
+          "Spring Hill",
+          "Franklin",
+          "Columbia"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Paver Patio",
+        "text": "LandArt, Inc. transformed our backyard with a beautiful paver patio. The team was professional, efficient, and paid close attention to detail. We now have a wonderful outdoor space for entertaining!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Retaining Wall",
+        "text": "We had a serious erosion problem on our property, and LandArt, Inc. built a sturdy and attractive retaining wall that solved the issue. The communication was excellent, and the price was fair.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Outdoor Kitchen",
+        "text": "Our outdoor kitchen is a dream come true! LandArt, Inc. helped us design a functional and stylish space that we use all the time. The quality of the workmanship is outstanding.",
+        "date": "2024-09-08"
+      },
+      {
+        "name": "John S.",
+        "rating": 5,
+        "service": "Drainage Solutions",
+        "text": "After years of dealing with a flooded basement, LandArt, Inc. installed a French drain system that completely solved the problem. They were knowledgeable, reliable, and professional.",
+        "date": "2024-06-12"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 4,
+        "service": "Driveway Repair",
+        "text": "LandArt, Inc. repaired the cracks in our concrete driveway quickly and efficiently. The price was reasonable, and the driveway looks as good as new.",
+        "date": "2024-04-28"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Outdoor Fireplace",
+        "text": "We absolutely love our new outdoor fireplace! LandArt, Inc. created a cozy and inviting space that we enjoy year-round. The craftsmanship is exceptional, and the team was a pleasure to work with.",
+        "date": "2023-12-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "LandArt, Inc. | Nashville Hardscaping",
+        "description": "Expert hardscaping services in Nashville, TN. Paver patios, retaining walls, outdoor kitchens, and more. Free consultations!"
+      },
+      "about": {
+        "title": "About LandArt, Inc. | Nashville Hardscaper",
+        "description": "Learn about LandArt, Inc.'s commitment to quality hardscaping in Nashville, TN. Local experts with years of experience."
+      },
+      "services": {
+        "title": "Hardscaping Services | LandArt, Inc.",
+        "description": "Nashville's leading hardscaping contractor. Paver patios, retaining walls, outdoor kitchens, drainage solutions, and more."
+      },
+      "contact": {
+        "title": "Contact LandArt, Inc. | Nashville, TN",
+        "description": "Contact LandArt, Inc. for a free hardscaping consultation in Nashville, TN. Get a quote today!"
+      },
+      "reviews": {
+        "title": "LandArt, Inc. Reviews | Nashville Hardscaping",
+        "description": "Read reviews for LandArt, Inc., Nashville's trusted hardscaping contractor. See what our satisfied customers are saying!"
+      },
+      "service-areas": {
+        "title": "LandArt, Inc. Service Areas | TN",
+        "description": "LandArt, Inc. provides hardscaping services in Nashville, Franklin, Murfreesboro, Brentwood, and Hendersonville, TN."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "paver-patios-walkways": "/images/service-paver-patios-walkways.webp",
+      "retaining-walls": "/images/service-retaining-walls.webp",
+      "outdoor-fire-pits-fireplaces": "/images/service-outdoor-fire-pits-fireplaces.webp",
+      "outdoor-kitchens": "/images/service-outdoor-kitchens.webp",
+      "driveway-installation-repair": "/images/service-driveway-installation-repair.webp",
+      "drainage-solutions": "/images/service-drainage-solutions.webp"
+    },
+    "servicesResponsive": {
+      "paver-patios-walkways": {
+        "src": "/images/service-paver-patios-walkways.webp",
+        "srcset": "/images/service-paver-patios-walkways-400w.webp 400w, /images/service-paver-patios-walkways-800w.webp 800w, /images/service-paver-patios-walkways-1200w.webp 1200w, /images/service-paver-patios-walkways.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "retaining-walls": {
+        "src": "/images/service-retaining-walls.webp",
+        "srcset": "/images/service-retaining-walls-400w.webp 400w, /images/service-retaining-walls-800w.webp 800w, /images/service-retaining-walls-1200w.webp 1200w, /images/service-retaining-walls.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-fire-pits-fireplaces": {
+        "src": "/images/service-outdoor-fire-pits-fireplaces.webp",
+        "srcset": "/images/service-outdoor-fire-pits-fireplaces-400w.webp 400w, /images/service-outdoor-fire-pits-fireplaces-800w.webp 800w, /images/service-outdoor-fire-pits-fireplaces-1200w.webp 1200w, /images/service-outdoor-fire-pits-fireplaces.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-kitchens": {
+        "src": "/images/service-outdoor-kitchens.webp",
+        "srcset": "/images/service-outdoor-kitchens-400w.webp 400w, /images/service-outdoor-kitchens-800w.webp 800w, /images/service-outdoor-kitchens-1200w.webp 1200w, /images/service-outdoor-kitchens.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-installation-repair": {
+        "src": "/images/service-driveway-installation-repair.webp",
+        "srcset": "/images/service-driveway-installation-repair-400w.webp 400w, /images/service-driveway-installation-repair-800w.webp 800w, /images/service-driveway-installation-repair-1200w.webp 1200w, /images/service-driveway-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drainage-solutions": {
+        "src": "/images/service-drainage-solutions.webp",
+        "srcset": "/images/service-drainage-solutions-400w.webp 400w, /images/service-drainage-solutions-800w.webp 800w, /images/service-drainage-solutions-1200w.webp 1200w, /images/service-drainage-solutions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
